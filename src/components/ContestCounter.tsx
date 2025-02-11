@@ -94,7 +94,6 @@ const ContestCounter = () => {
   );
 };
 
-// Styling for progress bars
 const progressBarStyles = {
   path: {
     stroke: "#BA5EEF",
