@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --font-nunito: "Nunito", sans-serif;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background-color: #1c1c1e;
+  font-family: var(--font-roboto), Arial, Helvetica, sans-serif;
+}
+
+/* css for header link  */
+.header-link {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+/* #Hero-bg {
+  background: url("/images/bg-logo.png") no-repeat center center, #1c1c1e;
+  position: relative;
+} */
+
+.custom-slider .slick-slide {
+  padding: 0 10px;
+  /* Adjust the value for desired spacing */
+}
+
+.custom-slider .slick-list {
+  margin: 0 -10px;
+  /* Matches the padding to prevent clipping */
+}

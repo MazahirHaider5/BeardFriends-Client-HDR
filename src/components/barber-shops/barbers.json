@@ -1,0 +1,144 @@
+{
+  "barbers": [
+      {
+          "shop": {
+              "_id": "1",
+              "profilePicture": "/images/barberShopProfile1.jpg",
+              "shopName": "Elite Barbers",
+              "shopAddress": "123 Main St, Springfield"
+          },
+          "rating": 2.5,
+          "distance": 2
+      },
+      {
+          "shop": {
+              "_id": "2",
+              "profilePicture": "/images/barberShopProfile2.png",
+              "shopName": "Modern Styles",
+              "shopAddress": "456 Elm St, Springfield"
+          },
+          "rating": 3.8,
+          "distance": 5
+      },
+      {
+          "shop": {
+              "_id": "3",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Classic Cuts",
+              "shopAddress": "789 Oak St, Springfield"
+          },
+          "rating": 1.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "4",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "5",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "6",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "7",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "8",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "9",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "10",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "11",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "12",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "13",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      },
+      {
+          "shop": {
+              "_id": "14",
+              "profilePicture": "/images/barberShopProfile3.png",
+              "shopName": "Bluffy Cuts",
+              "shopAddress": "789 Oak St, Islamabad"
+          },
+          "rating": 4.2,
+          "distance": 3
+      }
+  ]
+}
